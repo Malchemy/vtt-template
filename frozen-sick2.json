@@ -1,0 +1,294 @@
+{
+  "title": "Frozen Sick",
+  "id": "frozen-sick",
+  "system": "dnd5e",
+  "coreVersion": "13.348",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "systemVersion": "5.1.4",
+  "lastPlayed": "Thu Sep 04 2025 01:09:57 GMT-0400 (Eastern Daylight Time)",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-frozen-sick-ddb-backgrounds",
+      "banner": "modules/ddb-importer/storage/ddb/banner/backgrounds.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-backgrounds",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-frozen-sick-ddb-classes",
+      "banner": "modules/ddb-importer/storage/ddb/banner/classes.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-classes",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-frozen-sick-ddb-feats",
+      "banner": "modules/ddb-importer/storage/ddb/banner/feats.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-feats",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-frozen-sick-ddb-items",
+      "banner": "modules/ddb-importer/storage/ddb/banner/items.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-items",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-frozen-sick-ddb-monsters",
+      "banner": "modules/ddb-importer/storage/ddb/banner/monsters.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-monsters",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-frozen-sick-ddb-vehicles",
+      "banner": "modules/ddb-importer/storage/ddb/banner/vehicles.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-vehicles",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Species",
+      "name": "ddb-frozen-sick-ddb-species",
+      "banner": "modules/ddb-importer/storage/ddb/banner/species.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-species",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-species",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-frozen-sick-ddb-spells",
+      "banner": "modules/ddb-importer/storage/ddb/banner/spells.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-spells",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-frozen-sick-ddb-tables",
+      "banner": "modules/ddb-importer/storage/ddb/banner/tables.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-tables",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-frozen-sick-ddb-override",
+      "banner": "modules/ddb-importer/storage/ddb/banner/override.jpg",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-override",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "JournalEntry",
+      "label": "DDB Journals",
+      "name": "ddb-frozen-sick-ddb-journals",
+      "banner": "modules/ddb-importer/storage/ddb/banner/journals.png",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-journals",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-journals",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Summons",
+      "name": "ddb-frozen-sick-ddb-summons",
+      "banner": "modules/ddb-importer/storage/ddb/banner/summons.png",
+      "flags": {
+        "ddbimporter": {
+          "schema": 1
+        }
+      },
+      "path": "packs/ddb-frozen-sick-ddb-summons",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "package": "world",
+      "id": "world.ddb-frozen-sick-ddb-summons",
+      "packageType": "world",
+      "packageName": "frozen-sick",
+      "index": [],
+      "folders": []
+    }
+  ],
+  "url": "https://github.com/Malchemy/vtt-template",
+  "manifest": "https://github.com/Malchemy/vtt-template/raw/refs/heads/main/frozen-sick.json",
+  "download": "https://github.com/Malchemy/vtt-template/raw/refs/heads/main/null.zip"
+  "flags": {}
+}
