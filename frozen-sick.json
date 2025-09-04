@@ -287,7 +287,7 @@
       "folders": []
     }
   ],
-  "playtime": 432,
-  "description": "",
+  "url": "https://github.com/Malchemy/vtt-template",
+  "manifest": "https://github.com/Malchemy/vtt-template/raw/refs/heads/main/frozen-sick.json",
   "flags": {}
 }
